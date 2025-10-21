@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there Naas here 👋
+Full-stack developer passionate about building creative applications.
 
-<!--
-**ShortNaas/shortnaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+JavaScript • Node.js • Python • Flask • PostgreSQL
 
-Here are some ideas to get you started:
+📧 jonasget@proton,me.com • [Portfolio](https://SOON) • [LinkedIn](https://linkedin.com/in/ShortNaas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shortnaas&show_icons=true&theme=minimal&hide_border=true&hide=issues)
+
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+
+
+![Badge](https://img.shields.io/badge/Developer-Full_Stack-blue?style=flat)
+
+
