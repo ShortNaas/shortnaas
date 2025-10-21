@@ -6,7 +6,7 @@ JavaScript • Node.js • Python • Flask • PostgreSQL
 
 📧 jonasget@proton.me.com • [Portfolio](https://SOON) • [LinkedIn](https://linkedin.com/in/ShortNaas)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shortnaas&show_icons=true&theme=minimal&hide_border=true&hide=issues)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shortnaas)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
