@@ -1,1 +1,1 @@
-A security oriented developer and content creator.
+Security-focused backend dev & content creator
