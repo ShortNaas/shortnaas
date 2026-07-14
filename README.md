@@ -1,3 +1,4 @@
+```yaml
 ███    ███   shortnaas@github
 ████   ███   ---------------
 ██ ██  ███   name:    naas
@@ -6,3 +7,4 @@
 ██    ████   status:  building . securing
              twitter: https://x.com/shortnaas
              blog:    https://naas.work
+```
