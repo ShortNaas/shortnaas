@@ -1,10 +1,8 @@
-> whoami
-
 ███    ███   shortnaas@github
 ████   ███   ---------------
-██ ██  ███   name:      Naas
-██  ██ ███   role:   backend . security
+██ ██  ███   name:    naas
+██  ██ ███   role:    backend . security
 ██   █████   content: blog . youtube
-██    ████   status:  building . securing  
-             twitter: https://x.com/shortnaas 
-             blog: https://naas.work
+██    ████   status:  building . securing
+             twitter: https://x.com/shortnaas
+             blog:    https://naas.work
